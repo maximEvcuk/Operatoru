@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <cstring>
-
+ddddddddddddddddddddddddddddddddddd
 class String {
 private:
     char* str;
@@ -30,6 +30,6 @@ public:
 };
 
 
-
+#include "String.cpp"
 
 #endif // STRINGG_H
